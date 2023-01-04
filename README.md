@@ -1,2 +1,2 @@
 # DemoRepo
-Demorepository für die Hochscule
+Demorepository für die Hochschule
